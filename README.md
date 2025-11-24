@@ -1,4 +1,4 @@
-# LLM Code Comparison – Gemini 2.5 Flash vs LLaMA-3.3-70B (Groq)
+# LLM Code Comparison – Gemini 2.5 Flash vs LLaMA-3.3-70B (Groq) 
 
 This project allows you to compare two Large Language Models (LLMs) — **Google Gemini 2.5 Flash** and **Meta LLaMA-3.3-70B** (via Groq) — on their ability to generate source code for different programming tasks.
 
@@ -11,6 +11,8 @@ The system provides a **complete automated pipeline**:
 5. A Streamlit dashboard displays everything neatly  
 
 🚀
+
+## Check out Demo Screenshots [Large Language Models Code Comparison Dashboard (Prototype)](https://mshazilkhandevs.vercel.app/projects/large-language-models-code-comparison-dashboard)
 
 ## What This Project Does
 
@@ -50,7 +52,7 @@ project/
 | Lines of Code (LOC)     | Total lines of generated code                    |
 | Maintainability Index   | Standard MI score (higher = better)              |
 | Raw Output              | Full stdout from execution                       |
-
+```
 ## 🧩 How the Pipeline Works
 
 This section explains how the entire code-generation and evaluation pipeline runs inside the project.
