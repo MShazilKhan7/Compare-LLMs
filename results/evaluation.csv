@@ -1,0 +1,5 @@
+task_id,model,returncode,stdout,stderr,runtime,memory,loc,maintainability_index
+1,gemini,0,"55
+",,0.19295339996460825,3522560,36,86.36601675910838
+1,llama,0,"55
+",,0.1032800999819301,3526656,26,92.77657862336413

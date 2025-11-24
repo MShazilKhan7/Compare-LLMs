@@ -1,0 +1,85 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.db
+*.sqlite3
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# PyInstaller
+*.spec
+
+# Unit tests / coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Django
+*.log
+staticfiles/
+media/
+db.sqlite3
+
+# Flask
+instance/
+*.log
+
+# Local environment files
+.env.local
+.env.development
+.env.production
+.env.test
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pylint
+pylint.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS & Linux system files
+.DS_Store
+*.tmp
+*.temp
+
+# Reports
+*.html
+*.xml
+
+# Cache
+.cache/
+__snapshot__/
+
+# Project-s

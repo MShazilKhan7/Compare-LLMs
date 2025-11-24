@@ -1,0 +1,10 @@
+Task: Write a Python script that reads an integer n from stdin and prints the nth Fibonacci number (use 0-based indexing, Fibonacci(0) = 0, Fibonacci(1) = 1).
+
+
+Input: single integer n
+Output: single integer
+
+
+Example:
+Input: 5
+Output: 5
