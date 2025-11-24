@@ -21,7 +21,7 @@ The system provides a **complete automated pipeline**:
 | ✅ **Create custom coding tasks**         | Write your own problem statements (e.g., “sort a list”, “find prime numbers”, etc.). Each task is saved as a `.txt` file inside the `tasks/` folder. |
 | ✅ **Auto-generate code using two LLMs** | Sends each task prompt to Gemini and LLaMA (Groq) and saves the outputs (e.g., `outputs/task_1/gemini.py`, `outputs/task_1/llama.py`). |
 | ✅ **Run evaluation automatically**      | Executes both scripts, measures runtime, memory usage, LOC, maintainability, correctness, etc., and stores results in `results/evaluation.csv`. |
-| ✅ **View results inside Streamlit**      | comparison table with Task ID, Model, Runtime, Memory, LOC, Maintainability Index, Errors, Output, and more. |
+| ✅ **View results inside Streamlit**      | comparison table with Task ID, Model, Runtime, Memory, LOC, Maintainability Index, Errors, Output. |
 
 You get a **complete side-by-side comparison** between Gemini 2.5 Flash and LLaMA-3.3-70B.
 
